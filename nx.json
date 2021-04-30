@@ -35,6 +35,13 @@
     "find-companies-e2e": {
       "tags": [],
       "implicitDependencies": ["find-companies"]
+    },
+    "my-app": {
+      "tags": []
+    },
+    "my-app-e2e": {
+      "tags": [],
+      "implicitDependencies": ["my-app"]
     }
   }
 }
